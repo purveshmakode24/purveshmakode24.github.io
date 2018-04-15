@@ -43,7 +43,7 @@ img {
 
 /* Hero Section */
 header.hero {
-  background: url(https://i.imgur.com/uZnn6TE.jpg) no-repeat center center fixed;
+  background-image: url(../img/purvesh.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
