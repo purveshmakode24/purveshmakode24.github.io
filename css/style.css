@@ -40,6 +40,27 @@ img {
 .blue {
   color: #37a7ff;
 }
+/***********************/
+/*FOR ANIMATION CONTENT-purvesh:) Include class animate-bottom*/
+/***********************/
+/*.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 1s;
+  animation-name: animatetop;
+  animation-duration: 1s
+}
+
+@-webkit-keyframes animatetop {
+  from { top:-100px; opacity:0 } 
+  to { top:0px; opacity:1 }
+}
+
+@keyframes animatetop { 
+  from{ top:-100px; opacity:0 } 
+  to{ top:0; opacity:1 }
+} */
+
 
 /* Hero Section */
 header.hero {

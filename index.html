@@ -19,7 +19,7 @@
 
  
     </head>
-    <body>
+    <body onload="typeWriter()">
       <header class="hero">
         <div class="container">
           <div class="row">
@@ -44,8 +44,8 @@
               </nav>
               <!-- <a href="#" class="menu"><img src="assets/menu.png"></a> -->
               <div class="hero-text" id="#home1">
-                <h1><span>Hi, I'm</span><br> Purvesh Makode</h1>
-                <h3>IT Junior Undergraduate | Travel Buff </h3>
+                <h1><span >Hi, I'm</span><br> Purvesh Makode</h1>
+                <h3 id="demo"></h3>
                 <a href="#about1" class="btn btn-lg btn-primary">Know More</a>
                 <ul class="social-links">
                   <li class="label">Join me here</li>
@@ -230,9 +230,10 @@
           
           <div id="contact-form">
             <form method="POST" action="https://formspree.io/makodepurvesh@gmail.com">
-                <input type="hidden" name="_subject" value="Contact request from personal website" /><br>
-                <input type="email" name="_replyto" placeholder="Your email" required><br>
-                <textarea name="message" placeholder="Your message" required></textarea>
+                <!--<input type="hidden" name="_subject" value="Contact request from personal website" /><br>-->
+                <input type="name" name="Name" placeholder="Your name" required style="margin-top: 30px;">
+                <input type="email" name="_replyto" placeholder="Your email" required>
+                <textarea name="message" placeholder="Your message" required style="margin-top: 20px;"></textarea>
                 <button type="submit" style="height: 40px">Send</button>
             </form>
         </div>
@@ -367,7 +368,7 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
       <script src="js/bootstrap.min.js" type="text/javascript"></script>
 
-		
+		  <script src="js/main1.js" type="text/javascript"></script>
      
     </body>
     </html>
