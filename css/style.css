@@ -257,11 +257,15 @@ h1.heading.pink:after {
   margin-top: 0;
   margin-bottom: 1em;
 }
+.testimonial-box h3.title{
+  color: #4e4c58;
+}
 .testimonial-box p.name {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 1.2em;
   margin-bottom: 0;
+  /*color: color: #4e4c58;*/ /* color for bottom right source testimonial*/
 }
 .testimonial-box p.designation {
   font-family: 'Montserrat', sans-serif;
