@@ -40,6 +40,7 @@ img {
 .blue {
   color: #37a7ff;
 }
+
 /***********************/
 /*FOR ANIMATION CONTENT-purvesh:) Include class animate-bottom*/
 /***********************/
@@ -592,8 +593,32 @@ ul.main-nav.show-it {
   }
 }
 
+/*random quote*/
+ .carousel-control.right, .carousel-control.left {
+      background-image: none;
+      color: #f4511e;
+  }
+  .carousel-indicators li {
+      border-color: #f4511e;
+  }
+  .carousel-indicators li.active {
+      background-color: #f4511e;
+  }
+#quotes{
+ box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
 
+/*block quote*/
 
-
-
+.quotation-mark{
+    
+    margin-top: -20px;
+    margin-bottom: -50px;
+    font-weight: bold;
+    font-size:100px;
+    color:#ff2a75;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+}
 
