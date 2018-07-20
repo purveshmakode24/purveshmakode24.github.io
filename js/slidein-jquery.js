@@ -11,6 +11,7 @@ $(window).scroll(function() {
 });
 
 /* contact slide-in effect*/
+/*
 $(window).scroll(function() {
   $(".slideanim-1").each(function(){
     var pos = $(this).offset().top;
@@ -22,3 +23,4 @@ $(window).scroll(function() {
   });
 });
 
+*/
