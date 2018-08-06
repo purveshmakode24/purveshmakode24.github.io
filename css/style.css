@@ -1,6 +1,4 @@
-
-
- body {
+body {
   font-family: 'Open Sans', sans-serif;
   background-color: #f2f2f2;
   font-size: 14px;
@@ -544,6 +542,9 @@ ul.main-nav.show-it {
   ul.social-links li a {
     opacity: 1;
   }
+  .social-links{
+   margin-bottom: 7em; 
+  }
   .testimonial {
     padding-top: 3rem;
   }
@@ -555,7 +556,6 @@ ul.main-nav.show-it {
     transform: translateY(0px);
     -webkit-transform: translateY(0px);
   }
-
   /*Swiper classes*/
   .client-box.swiper-slide-next {
     -ms-transform: scale(1);
@@ -594,6 +594,11 @@ ul.main-nav.show-it {
   .footer {
     padding: 1em 0em;
   }
+
+  #menu-toggle{
+    margin-right: 10px;
+  }
+ 
 }
 
 /*random quote*/
