@@ -1,3 +1,3 @@
 # PurveshMakode24.github.io
-MyPortfolio
-www.purveshmakode.cf
+MyPortfolio at
+https://www.purveshmakode.cf or https://purveshmakode24.github.io/
