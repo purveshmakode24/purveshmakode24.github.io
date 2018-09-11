@@ -518,6 +518,8 @@ ul.main-nav.show-it {
   }
   .about{
     font-size: 20px;
+    text-align: justify;
+
   }
   h1.heading {
     font-size: 2em;
