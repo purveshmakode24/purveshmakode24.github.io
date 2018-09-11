@@ -138,6 +138,7 @@ ul.social-links li a img {
   font-weight: 400;
   font-size: 25px;
   color: #4e4c58;
+  text-align: justify;
 }
 h4.sub-heading {
   text-transform: uppercase;
@@ -617,6 +618,7 @@ ul.main-nav.show-it {
 #quotes{
  box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
   border-radius: 5px;
+  padding: 10px;
 }
 
 /*block quote*/
