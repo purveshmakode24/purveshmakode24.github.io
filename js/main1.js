@@ -51,4 +51,8 @@ $(document).ready(function(){
     } // End if
   });
 });
-    
+
+//tip message
+function message(){
+    alert("Tips: Please provide your valid Email address, so that you get reply within few hours.");
+}
