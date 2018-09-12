@@ -605,20 +605,20 @@ ul.main-nav.show-it {
 }
 
 /*random quote*/
- .carousel-control.right, .carousel-control.left {
-      background-image: none;
-      color: #f4511e;
+.carousel-control.right, .carousel-control.left {
+    background-image: none;
+    color: #f4511e;
   }
-  .carousel-indicators li {
-      border-color: #f4511e;
+.carousel-indicators li {
+    border-color: #f4511e;
   }
-  .carousel-indicators li.active {
-      background-color: #f4511e;
+.carousel-indicators li.active {
+    background-color: #f4511e;
   }
 #quotes{
- box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
-  border-radius: 5px;
-  padding: 10px;
+ 	box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+  	border-radius: 5px;
+  	padding: 10px;
 }
 
 /*block quote*/
