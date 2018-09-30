@@ -54,5 +54,5 @@ $(document).ready(function(){
 
 //tip message
 function message(){
-    alert("Tip: Please provide your valid Email address to get reply.");
+    alert("Tip: Please provide your valid Email address to get reply.\nPress 'OK' to continue...");
 }
