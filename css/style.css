@@ -69,11 +69,11 @@ header.hero {
   -o-background-size: cover;
   background-size: cover;
   color: #fff;
-  padding-bottom: 80px;
+  padding-bottom: 150px;
 }
 
 header.hero .hero-text {
-  margin-top: 20%;
+  margin-top: 45%;
   margin-bottom: 20%;
 }
 header.hero .row {
@@ -127,16 +127,16 @@ ul.social-links li a img {
 
 /* Case study */
 .about-me .col-md-12 {
-  transform: translateY(-80px);
-  -webkit-transform: translateY(-80px);
-  padding: 5em 3em;
+  transform: translateY(-70px);
+  -webkit-transform: translateY(-70px);
+  padding: 7em 3em;
   background-color: #fff;
   box-shadow: 0 0 100px rgba(0, 0, 0, 0.15);
 }
 .about{
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-  font-size: 25px;
+  font-size: 27px;
   color: #4e4c58;
   text-align: justify;
 }
