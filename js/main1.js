@@ -2,14 +2,18 @@
 var i = 0;
 var txt = 'IT Junior Undergraduate | Travel Buff ';
 var speed = 40;
+var delay = 1000; //one sec starting delay
 
-function typeWriter() {
+setTimeout(function typeWriter() {
+
   if (i < txt.length) {
     document.getElementById("demo").innerHTML += txt.charAt(i);
     i++;
     setTimeout(typeWriter, speed);
   }
-}
+}, delay);
+
+
 
 
 $('a[href^="#"]').on('click', function(event) {
