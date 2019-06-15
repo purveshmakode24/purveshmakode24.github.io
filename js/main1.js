@@ -58,5 +58,5 @@ $(document).ready(function(){
 
 //tip message
 function message(){
-    alert("Tip: Please provide your valid Email address to get response.\nPress 'OK' to continue...");
+    alert("Tip: Please provide your valid Email address to get in touch with you.\nPress 'OK' to continue...");
 }
