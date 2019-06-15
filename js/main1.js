@@ -2,7 +2,7 @@
 var i = 0;
 var txt = 'IT Junior Undergraduate | Travel Buff ';
 var speed = 40;
-var delay = 1000; //one sec starting delay
+var delay = 1200; //one sec starting delay
 
 setTimeout(function typeWriter() {
 
