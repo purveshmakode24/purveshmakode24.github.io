@@ -1,7 +1,7 @@
 ## purveshmakode24.github.io (My Portfolio):zap:
 #### My Portfolio at https://www.purveshmakode.tk 
 
->Feel free to give your feedback by visiting 'contact' section in my [Portfolio](https://www.purveshmakode.tk/).
+> Feel free to give your feedback by visiting 'contact' section in my [Portfolio](https://www.purveshmakode.tk/).
 
 
 #### Last Domain
