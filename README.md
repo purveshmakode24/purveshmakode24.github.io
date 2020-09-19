@@ -1,5 +1,5 @@
 ## purveshmakode24.github.io (My Portfolio):zap:
-#### My Portfolio at https://www.purveshmakode.tk 
+#### My Portfolio at https://www.purveshmakode.tk <a href="https://github.com/purveshmakode24/purveshmakode24.github.io"><img src="https://img.shields.io/badge/status-Active-green"/></a>
 
 > Feel free to give your feedback by visiting 'contact' section in my [Portfolio](https://www.purveshmakode.tk/).
 
